@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
 ##This function Function makeCacheMatrix gets a matrix as an input, set the value of the matrix,
 #get the value of the matrix, set the inverse Matrix and get the inverse Matrix. The matrix object
@@ -131,4 +126,3 @@ CacheMatrix$getInverse()
 
 cacheSolve(CacheMatrix)
 cacheSolve(CacheMatrix)
-
